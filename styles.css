@@ -78,6 +78,9 @@ nav img{
     float:right;
     padding-left: 20px;
 }
+.space a{
+    text-decoration:none;
+}
 .spa{
     float:left;
     padding: 10px;
